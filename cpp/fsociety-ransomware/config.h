@@ -1,0 +1,1 @@
+#define SAFE_MODE true
