@@ -1,5 +1,6 @@
 <RCC>
   <qresource>
-    <file>img/jester.png</file>
+    <file>resources/img/jester.png</file>
+    <file>resources/fuxsocy.service</file>
   </qresource>
 </RCC>
